@@ -1,5 +1,5 @@
 // Import-Anweisung
-
+// Based on React we import react-
 import React, { Component } from 'react';
 import {AsyncStorage,  Button, StyleSheet,  View } from 'react-native';
 import Quote from './js/components/Quote';
